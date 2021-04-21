@@ -1,7 +1,7 @@
 # ----------- CONFIGURABLE START -----------
 title:            "oceansharks|GitHub blog"
 description:      "Two years"
-url:              https://oceansharks.github.com # 域名
+url:              https://oceansharks.github.io # 域名
 signoff:          "oceansharks" # Your name
 facebook_appid:   #oceansharks
 share:            true 
