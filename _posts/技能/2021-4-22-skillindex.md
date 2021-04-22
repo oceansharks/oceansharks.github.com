@@ -1,6 +1,6 @@
 ---
 layout: blog
-banana: true
+skill: true
 category: 安全测试
 title: SQLMap 常用命令
 date: 2021-04-22 10:06:42
