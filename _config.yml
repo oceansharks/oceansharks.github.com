@@ -8,7 +8,7 @@ share:            true
 # 分页
 paginate: 15
 paginate_path: "oceansharks:num"
-gems: [jekyll-paginate]
+gems: [oceansharks-paginate]
 links:
   - name:         首页
     url:          /
